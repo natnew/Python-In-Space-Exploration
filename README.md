@@ -18,4 +18,4 @@ This repo looks at how Python can be used in space exploration.
 #### Project:
 #### Skills Gained From This Project:
 * How code and data science plays a role in space exploration
-* Where to find STEM resources for learning more
+* Where to find STEM (Science, Technology, Engineering, Math) resources for learning more
