@@ -10,6 +10,9 @@ This repo looks at how Python can be used in space exploration.
 *  Programs targeted to higher education students as well, which can be found on the NASA STEM Engagement website: https://www.nasa.gov/stem/highereducation/index.html
 *  The services that Azure offers to explore data: https://azure.microsoft.com/en-us/overview/ai-platform/
 *  Nasa themed courses with Microsoft: https://docs.microsoft.com/en-us/learn/topics/nasa
+*  he open-source Visual Studio project on GitHub: https://github.com/microsoft/vscode
+
+
 
 #### Python Libraries:
 
