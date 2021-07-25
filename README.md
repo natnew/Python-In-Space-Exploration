@@ -9,6 +9,7 @@ This repo looks at how Python can be used in space exploration.
 *  There are three programs that have recently launched for K-12 students: Next Moon Step challenge: Grades K-12, NASA STEM @ Home: Grades K-4, Next Gen Stem: Moon to Mars: K-12: https://www.nasa.gov/feature/next-moon-step-challenge-make-your-mark-with-nasa-and-future-engineers/, https://www.nasa.gov/stem-at-home-for-students-k-4.html, https://www.nasa.gov/stem/nextgenstem/moon_to_mars/index.html
 *  Programs targeted to higher education students as well, which can be found on the NASA STEM Engagement website: https://www.nasa.gov/stem/highereducation/index.html
 *  The services that Azure offers to explore data: https://azure.microsoft.com/en-us/overview/ai-platform/
+*  Nasa themed courses with Microsoft: https://docs.microsoft.com/en-us/learn/topics/nasa
 
 #### Python Libraries:
 
