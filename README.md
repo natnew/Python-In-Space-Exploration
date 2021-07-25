@@ -5,7 +5,8 @@ This repo looks at how Python can be used in space exploration.
 
 #### Python Libraries:
 
-**Below**. An image of 
+**Below**. An image of a NASA space exploration.
+<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%202.PNG" alt="Here's a photo of a NASA space exploration ">
 
 #### Project: 
 
