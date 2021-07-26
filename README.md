@@ -37,10 +37,17 @@ This repo looks at how Python can be used in space exploration.
 #### Project:
 * Central question: Will weather conditions on a specific day support a successful rocket launch?
 
+#### Data:
+
+**Below**. Weather data for the days of individual crewed and uncrewed launches.
+
+<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%20data.PNG" alt="Data used in the project - nasa rocket weather data ">
 #### Skills Gained From This Project:
-* How code and data science plays a role in space exploration
-* Where to find STEM (Science, Technology, Engineering, Math) resources for learning more
+* Understanding of how code and data science plays a role in space exploration
+* Understanding of where to find STEM (Science, Technology, Engineering, Math) resources for learning more
 * Use past launch data, past weather data, and predicted weather data to predict whether a launch is likely to be successful.
+* Use artificial intelligence and machine learning to discover weather patterns on days when rockets successfully launched. 
+* Predict whether a rocket launch is likely to happen based on specific weather conditions.
 
 #### Contributing: 
 Please feel free to contribute! 🙂
