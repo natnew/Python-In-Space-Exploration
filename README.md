@@ -23,9 +23,7 @@ This repo looks at how Python can be used in space exploration.
 #### Python Libraries:
 
 **Below**. An image of a NASA space exploration.
-<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/Data%20Science%20Lifecycle.PNG" alt="Here's a photo of a NASA space exploration ">
-
-
+<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%202.PNG" alt="Here's a photo of a NASA space exploration ">
 
 #### Data Science Lifecycle:
 * Define a business goal by using subject matter expertise.
@@ -34,7 +32,7 @@ This repo looks at how Python can be used in space exploration.
 * Deploy your model, to be used with other applications.
 
 **Below**. Data Science Lifecycle Graphic.
-<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%202.PNG" alt="Here's a photo of data science lifecycle ">
+<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/Data%20Science%20Lifecycle.PNG" alt="Here's a photo of data science lifecycle ">
 #### Project:
 #### Skills Gained From This Project:
 * How code and data science plays a role in space exploration
