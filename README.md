@@ -11,6 +11,13 @@ This repo looks at how Python can be used in space exploration.
 *  The services that Azure offers to explore data: https://azure.microsoft.com/en-us/overview/ai-platform/
 *  Nasa themed courses with Microsoft: https://docs.microsoft.com/en-us/learn/topics/nasa
 *  he open-source Visual Studio project on GitHub: https://github.com/microsoft/vscode
+*  To help predict and analyze weather data, NASA partners closely with the National Oceanic and Atmospheric Administration (NOAA): https://www.noaa.gov/
+*  You can access NOAA data several ways. At NOAA Data Access: https://www.ncdc.noaa.gov/data-access
+*  Collect data at Data.NASA.gov: https://data.nasa.gov/
+*  NASA also provides developer resources: https://data.nasa.gov/stories/s/gk8h-th3y
+*  NASA collects data from a wide array of sources, including these sources:High-atmospheric scientific balloons, NOAA weather, Satellite imagery, Remote sensors, Weather pattern experts.https://nasadaacs.eos.nasa.gov/learn/remote-sensors,  https://weather.msfc.nasa.gov/GOES/
+* Critical criteria to consider for a safe rocket launch: https://www.patrick.spaceforce.mil/Portals/14/Weather/45WS%20Launch%20Forecast%20FAQ%20final.pdf?ver=7zXbiEWbRc-gRMpWBGbzog==
+
 
 
 
