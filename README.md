@@ -20,7 +20,7 @@ This repo looks at how Python can be used in space exploration.
 * The data science lifecycle can guide you in your effort to create new knowledge from data sources: https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle
 
 
-#### Data Science Lifecycle
+#### Data Science Lifecycle:
 * Define a business goal by using subject matter expertise.
 * Collect, clean, and manipulate your data.
 * Choose a machine learning algorithm, and then train and test your model.
