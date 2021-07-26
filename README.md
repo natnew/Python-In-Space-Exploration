@@ -19,6 +19,7 @@ This repo looks at how Python can be used in space exploration.
 * Critical criteria to consider for a safe rocket launch: https://www.patrick.spaceforce.mil/Portals/14/Weather/45WS%20Launch%20Forecast%20FAQ%20final.pdf?ver=7zXbiEWbRc-gRMpWBGbzog==
 * The data science lifecycle can guide you in your effort to create new knowledge from data sources: https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle
 * A machine learning algorithm cheat sheet: https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
+*  NASA launch schedule: https://www.nasa.gov/launchschedule/
 
 
 #### Python Libraries:
@@ -34,6 +35,7 @@ This repo looks at how Python can be used in space exploration.
 
 **Below**. Data Science Lifecycle Graphic.Accessed: https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle.
 <img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/Data%20Science%20Lifecycle.PNG" alt="Here's a photo of data science lifecycle ">
+
 #### Project:
 * Central question: Will weather conditions on a specific day support a successful rocket launch?
 
@@ -42,6 +44,8 @@ This repo looks at how Python can be used in space exploration.
 **Below**. Weather data for the days of individual crewed and uncrewed launches.
 
 <img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%20data.PNG" alt="Data used in the project - nasa rocket weather data ">
+<br> 
+
 #### Skills Gained From This Project:
 * Understanding of how code and data science plays a role in space exploration
 * Understanding of where to find STEM (Science, Technology, Engineering, Math) resources for learning more
