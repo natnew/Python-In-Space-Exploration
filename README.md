@@ -20,19 +20,21 @@ This repo looks at how Python can be used in space exploration.
 * The data science lifecycle can guide you in your effort to create new knowledge from data sources: https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle
 
 
+#### Python Libraries:
+
+**Below**. An image of a NASA space exploration.
+<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/Data%20Science%20Lifecycle.PNG" alt="Here's a photo of a NASA space exploration ">
+
+
+
 #### Data Science Lifecycle:
 * Define a business goal by using subject matter expertise.
 * Collect, clean, and manipulate your data.
 * Choose a machine learning algorithm, and then train and test your model.
 * Deploy your model, to be used with other applications.
 
-
-
-#### Python Libraries:
-
-**Below**. An image of a NASA space exploration.
-<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%202.PNG" alt="Here's a photo of a NASA space exploration ">
-
+**Below**. Data Science Lifecycle Graphic.
+<img src="https://github.com/natnew/Python-In-Space-Exploration/blob/main/NASA%202.PNG" alt="Here's a photo of data science lifecycle ">
 #### Project:
 #### Skills Gained From This Project:
 * How code and data science plays a role in space exploration
