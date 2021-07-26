@@ -17,7 +17,14 @@ This repo looks at how Python can be used in space exploration.
 *  NASA also provides developer resources: https://data.nasa.gov/stories/s/gk8h-th3y
 *  NASA collects data from a wide array of sources, including these sources:High-atmospheric scientific balloons, NOAA weather, Satellite imagery, Remote sensors, Weather pattern experts.https://nasadaacs.eos.nasa.gov/learn/remote-sensors,  https://weather.msfc.nasa.gov/GOES/
 * Critical criteria to consider for a safe rocket launch: https://www.patrick.spaceforce.mil/Portals/14/Weather/45WS%20Launch%20Forecast%20FAQ%20final.pdf?ver=7zXbiEWbRc-gRMpWBGbzog==
+* The data science lifecycle can guide you in your effort to create new knowledge from data sources: https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle
 
+
+#### Data Science Lifecycle
+* Define a business goal by using subject matter expertise.
+* Collect, clean, and manipulate your data.
+* Choose a machine learning algorithm, and then train and test your model.
+* Deploy your model, to be used with other applications.
 
 
 
